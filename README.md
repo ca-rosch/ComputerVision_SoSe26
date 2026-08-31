@@ -10,3 +10,6 @@ Contains checkpoints, history and metrics for the final experiment run with the 
 
 ### plots 
 Contains all plots used in the report.
+
+### Object Detection
+The training code can be found in [**object_detection.py**](object_detection.py) and results in [**55056**](55056)
