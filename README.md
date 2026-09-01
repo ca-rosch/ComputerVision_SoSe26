@@ -2,8 +2,8 @@
 Find all code for the final project report here.
 
 ### Classification
-- [**EDA.ipynb**](EDA.ipynb) contains the code for the exploratory data analysis (see results section)
-- [**model_training.ipynb**](model_training.ipynb) contains all code for the training of the EfficientNet for chest X-ray classification
+- [**EDA.ipynb**](EDA.ipynb) contains the code for the exploratory data analysis (see results section).
+- [**model_training.ipynb**](model_training.ipynb) contains all code for the training of the EfficientNet for chest X-ray classification.
 
 - [**results**](results) contains checkpoints, history and metrics for the final experiment run with the results used in the report. The experiment was run three times with different seeds (42, 43, 44).
 
